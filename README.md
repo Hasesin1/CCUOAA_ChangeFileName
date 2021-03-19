@@ -22,4 +22,4 @@ CCUOAA_ChangeFileName
 2. 找不到檔案是因為開課資料有這筆資料但資料夾中卻無對應的檔案。
 3. 開課資料的檔案只能有一個工作表。
 ## 使用元件
-NPOI
+https://www.nuget.org/packages/NPOI/
