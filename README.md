@@ -6,7 +6,8 @@ CCUOAA_ChangeFileName
 2. 當年度開課資料(.xlsx)
 3. 調查結果(欲改檔名的一堆檔案們，.xls或.pdf)
 ## HOW-TO
-1. **將開課資料與調查結果資料夾放在同一層目錄中**![](https://i.imgur.com/9qBDBXv.png)
+1. **將開課資料與調查結果資料夾放在同一層目錄中**
+![](https://i.imgur.com/9qBDBXv.png)
 2. 開啟改檔名程式
 3. 輸入開課年度(EX:1091，為4碼，輸入錯誤將找不到檔案)
 4. 選擇位於同目錄下的開課資料
