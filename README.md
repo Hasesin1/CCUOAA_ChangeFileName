@@ -12,7 +12,9 @@ CCUOAA_ChangeFileName
 3. 輸入開課年度(EX:1091，為4碼，輸入錯誤將找不到檔案)
 4. 選擇位於同目錄下的開課資料
 5. 處理中...完成!
+
 ![](https://i.imgur.com/SJFbHXO.png)
+
 6. 點開Excel與PDF資料夾，依據**一般生**或**專班生**建立對應的資料夾並將檔案移入。
 ![](https://i.imgur.com/UTtU7cM.png)
 
