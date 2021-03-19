@@ -14,6 +14,7 @@ CCUOAA_ChangeFileName
 5. 處理中...完成!![](https://i.imgur.com/SJFbHXO.png)
 6. 點開Excel與PDF資料夾，依據**一般生**或**專班生**建立對應的資料夾並將檔案移入。
 ![](https://i.imgur.com/UTtU7cM.png)
+
 (先改完一般生或專班生後務必建並資料夾並移動進去，否則稍後處理另一個後將全部混在一起！)
 7. 完成！
 ## HINT
